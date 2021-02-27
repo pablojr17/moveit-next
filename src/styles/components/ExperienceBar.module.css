@@ -3,7 +3,7 @@
   align-items: center;
 }
 
-.experienceBar span {
+.experienceBar span{
   font-size: 1rem;
 }
 
@@ -25,5 +25,5 @@
 span.currentExperience {
   position: absolute;
   top: 12px;
-  transform: translateX(-50%);
+  transform: translateX(-50%)
 }
